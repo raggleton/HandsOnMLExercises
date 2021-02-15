@@ -3,3 +3,7 @@ scipy
 matplotlib
 pandas
 sklearn
+
+jupyter
+nbdev
+jupyter_contrib_nbextensions
