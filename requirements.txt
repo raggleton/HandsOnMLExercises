@@ -3,7 +3,9 @@ scipy
 matplotlib
 pandas
 sklearn
+seaborn
 
 jupyter
 nbdev
 jupyter_contrib_nbextensions
+ipykernel
