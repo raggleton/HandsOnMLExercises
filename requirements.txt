@@ -4,6 +4,7 @@ matplotlib
 pandas
 sklearn
 seaborn
+graphviz
 
 jupyter
 nbdev
