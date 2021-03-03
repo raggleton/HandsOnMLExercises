@@ -1,6 +1,7 @@
 *.pyc
 *.tgz
 *.zip
+*.html
 
 .vscode
 .DS_Store
